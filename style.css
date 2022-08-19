@@ -1,0 +1,37 @@
+.heading{
+    margin: 2px;
+    background-color: aqua;
+    height: 60px;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 5px;
+    color: red;
+}
+.navbar{
+    padding-left: 10px;
+    color: black;
+    text-align: left;
+    font-size: 20px;
+    text-align: left;
+    ;
+}
+
+
+.form{
+    border: 2px solid black;
+    width: 45%;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    box-shadow: 1px;
+    padding-left: 5px;
+    float:left;
+}
+
+.form h3{
+    text-align: center;
+} 
+input{
+    margin: 2px;
+    
+}
